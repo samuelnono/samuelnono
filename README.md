@@ -5,7 +5,7 @@ My main focus is **data analytics and data analysis**: understanding data, extra
 
 Alongside analytics, I bring strong foundations in **data science and machine learning**, with a growing interest in **human-centered AI** — especially where data, behavior, and technology intersect.
 
-I’m drawn to work that blends technical craft with humility, curiosity, and a desire to build with purpose.
+I’m drawn to work that blends technical craft with curiosity, and a desire to build with purpose.
 
 ---
 
@@ -32,7 +32,7 @@ Built from scratch to classify facial expressions, with attention to real-world 
 • **Auralis – Music Recommendation System (In Progress)**  
 A personal project exploring recommendation through listening behavior, patterns, and user intent — blending analytics, ML, and creativity.
 
-• **Multi-Modal Emotion AI (Thesis – Ongoing)**  
+• **Multi-Modal Emotion AI (APP – Ongoing)**  
 Extending facial emotion recognition into speech and text-based emotion modeling using RNN/LSTM and transformer approaches.
 
 ---
@@ -57,8 +57,8 @@ I’m seeking opportunities in **data analytics / data-focused roles** where I c
 
 🎶 Outside of Tech
 
-I’m also a musician and storyteller. Whether I’m working with data or writing music, I care about intention, creativity, and meaning.  
-For me, analysis and art aren’t opposites — they’re different ways of understanding the human experience.
+I’m also a musician, huge sports enthusiast and storyteller. Whether I’m working with data, playing Soccer or writing music, I care about intention, creativity, and meaning.  
+For me, analysis, hobbies and art are alligned — they’re different ways of understanding the human experience.
 
 ---
 
