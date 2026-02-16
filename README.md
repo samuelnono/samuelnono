@@ -1,6 +1,6 @@
 👋 About Me
 
-Hi, I’m Samuel — a Master’s student in Data Science with a background in psychology and business administration.
+Hi, I’m Samuel,  a Master’s student in Data Science with a background in psychology and business administration.
 
 I design data systems that move from raw input to structured insight. My work spans ETL pipelines, distributed databases, analytics engineering, and emotion-aware AI systems — especially where data, behavior, and technology intersect.
 
