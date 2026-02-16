@@ -1,11 +1,10 @@
 👋 About Me
 
-Hi, I’m Samuel — a Master’s student in Data Science with a background in psychology and business administration.  
-My main focus is **data analytics and data analysis**: understanding data, extracting meaning, and translating insights into decisions that actually matter.
+Hi, I’m Samuel — a Master’s student in Data Science with a background in psychology and business administration.
 
-Alongside analytics, I bring strong foundations in **data science and machine learning**, with a growing interest in **human-centered AI** — especially where data, behavior, and technology intersect.
+I design data systems that move from raw input to structured insight. My work spans ETL pipelines, distributed databases, analytics engineering, and emotion-aware AI systems — especially where data, behavior, and technology intersect.
 
-I’m drawn to work that blends technical craft with curiosity, and a desire to build with purpose.
+I’m drawn to building systems with purpose: combining technical architecture with human-centered design.
 
 ---
 
