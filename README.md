@@ -42,12 +42,17 @@ Built retrieval-augmented generation pipeline using FAISS, LoRA, Flan-T5, and Gr
 
 ---
 
-🎯 What I’m Looking For
+🎯 What I’m Building Toward
 
-I’m seeking opportunities in **data analytics / data-focused roles** where I can:
-• Work with real-world data to generate meaningful insights  
-• Learn from mentors and collaborate on a strong team  
-• Grow professionally while staying grounded in my values  
+I’m focused on designing data systems that connect raw input to meaningful outcomes — from ETL pipelines and distributed databases to applied AI systems.
+
+I’m seeking roles where I can:
+
+Architect and improve data workflows
+
+Contribute to analytics or AI-driven products
+
+Continue developing at the intersection of systems, intelligence, and human-centered design
 
 ---
 
