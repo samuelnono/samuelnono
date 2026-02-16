@@ -8,31 +8,28 @@ I’m drawn to building systems with purpose: combining technical architecture w
 
 ---
 
-📊 What I’m Working On 
+🔧 Data Systems & Engineering Projects
 
-• **Forkast – Smart Meal Planner (Data + Analytics System)**  
-A data-driven system built with React, Flask, MongoDB, and Docker.  
-My work centered on data ingestion, API testing, database inspection, and interpreting user input data to support real-world decision-making.
+Sakila Data Warehouse (ETL + OLAP Modeling)
+Migrated a normalized MySQL OLTP schema into a snowflake-style data warehouse. Built fact tables, simulated batch loads, and developed KPI dashboards.
 
-• **Stock Market Data Analysis Project**  
-An applied analysis project exploring stock/financial data through time-series exploration, feature engineering, and predictive modeling.  
-The focus is on trends, interpretation, and what the data reveals about market behavior.
+Celsius – Distributed MongoDB Cloud System
+Designed and deployed a multi-region MongoDB architecture across VMs. Implemented validation rules, stored procedures, aggregation pipelines, and financial modeling logic.
 
-• **Data Analytics Course Project**  
-An end-to-end analytics workflow: cleaning, transformation, exploratory analysis, visualization, and communicating insights in a business-relevant way.
+Forkast – Dockerized Data Pipeline Application
+Built a containerized full-stack system (React, Flask, MongoDB) focused on structured data ingestion, validation, and analytics-ready storage.
 
----
+🤖 Applied AI & Machine Learning
 
-🤖 Supporting Projects (Data Science + Human-Centered AI)
+Auralis – Emotion-Aware Music Recommendation System
+Feature extraction + emotion mapping pipeline for personalized music recommendation.
 
-• **Facial Emotion Recognition (CNN-Based)**  
-Built from scratch to classify facial expressions, with attention to real-world applications and ethical considerations.
+Facial Emotion Recognition (CNN-Based)
+Built from scratch for real-world emotion classification with attention to deployment constraints.
 
-• **Auralis – Music Recommendation System (In Progress)**  
-A personal project exploring recommendation through listening behavior, patterns, and user intent — blending analytics, ML, and creativity.
+Local RAG Chatbot
+Built retrieval-augmented generation pipeline using FAISS, LoRA, Flan-T5, and Gradio.
 
-• **Multi-Modal Emotion AI (APP – Ongoing)**  
-Extending facial emotion recognition into speech and text-based emotion modeling using RNN/LSTM and transformer approaches.
 
 ---
 
