@@ -9,7 +9,7 @@ I’m drawn to work that blends technical craft with curiosity, and a desire to 
 
 ---
 
-📊 What I’m Working On (Analytics First)
+📊 What I’m Working On 
 
 • **Forkast – Smart Meal Planner (Data + Analytics System)**  
 A data-driven system built with React, Flask, MongoDB, and Docker.  
